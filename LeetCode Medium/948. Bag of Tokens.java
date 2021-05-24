@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/bag-of-tokens/
+//By Ratna Priya
 class Solution {
     public int bagOfTokensScore(int[] tokens, int power) {
         Arrays.sort(tokens);
