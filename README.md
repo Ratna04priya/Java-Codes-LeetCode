@@ -1,3 +1,4 @@
 # Java-Codes-LeetCode
-Here, you can find LeetCode solutions in Java!
+Here, I have coded few LeetCode problems (Medium/ Dynamic/Basic/ Easy) in Java.
+Find the LeetCode solutions you need in **Java!**
 
