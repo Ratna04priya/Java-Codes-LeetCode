@@ -1,4 +1,5 @@
 //419. Battleships in a Board
+//By Ratna Priya
 //https://leetcode.com/problems/battleships-in-a-board/
 /*Input: board = [["X",".",".","X"],[".",".",".","X"],[".",".",".","X"]]
 Output: 2*/
