@@ -1,6 +1,6 @@
 
-// 938. Range Sum of BST
-//https://leetcode.com/problems/range-sum-of-bst/
+// 938. Range Sum of BST - https://leetcode.com/problems/range-sum-of-bst/
+// By Ratna Priya
 /*Input: root = [10,5,15,3,7,null,18], low = 7, high = 15
 Output: 32*/
 
