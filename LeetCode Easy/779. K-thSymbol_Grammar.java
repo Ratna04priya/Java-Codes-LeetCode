@@ -1,5 +1,6 @@
 // 779. K-th Symbol in Grammar - recursion
 // https://leetcode.com/problems/k-th-symbol-in-grammar/
+// By Ratna Priya
 //Input: N = 4, K = 5
 //Output: 1     Explanation: row 1: 0 row 2: 01 row 3: 0110 row 4: 01101001
 
