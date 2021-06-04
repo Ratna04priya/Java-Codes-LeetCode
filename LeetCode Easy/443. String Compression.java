@@ -1,5 +1,6 @@
-// String Compression
+//443. String Compression - https://leetcode.com/problems/string-compression/
 // https://leetcode.com/problems/string-compression/
+//By Ratna Priya
 
 /*
 Input: chars = ["a","a","a","b","b","a","a"]
