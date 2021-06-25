@@ -6,7 +6,7 @@
 // 1. Build Adjcent graph with HashMap to store <node, neighbors in min heap> pair
 // 2. DFS for topological sort
 //    1) Poll neighbors from the min heap
-//    2) Add to first after do DFS to explore the neighbors.
+//    2) Add to first after do DFS to explore the neighbors. 
 // Note 1: The order in which the nodes are added to the list is the reverse order of the final results.
 //        Because the dead end should be put at the end the path.
 //        So we need to reverse the result to get the Topological Sort. 
