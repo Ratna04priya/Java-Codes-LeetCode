@@ -1,5 +1,5 @@
 //520. Detect Capital
-//By Ratna Priya
+//By Ratna Priya 
 
 class Solution {
     public boolean detectCapitalUse(String word) {
