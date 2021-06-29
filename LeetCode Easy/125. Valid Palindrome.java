@@ -1,5 +1,5 @@
 // 125. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
-// By Ratna Priya 
+// By Ratna Priya   
 
 class Solution {
     public boolean isPalindrome(String s) {
